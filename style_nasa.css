@@ -1,0 +1,77 @@
+*{
+	margin:0;
+	padding:0;
+}
+
+.nav-item{
+	display: inline-flex;
+}
+
+.img_cards_vertical
+{
+	width: 100px;
+  border-radius: 50%;
+
+}
+
+.styling_figcaption4BookCards{
+	display: inline;
+    align-items: right;
+}
+
+/*styling footer*/
+    footer{
+        background: #000808;
+        padding-top: 100px;
+		color: white;
+    }
+    .container{
+        width: 1140px;
+        margin: auto;
+        display: flex;
+        justify-content: center;
+    }
+    .footer-content{
+        width: 33.3%;
+    }
+    h3{
+        font-size: 28px;
+        margin-bottom: 15px;
+        text-align: center;
+    }
+    .footer-content p{
+        width:150px;
+        margin: auto;
+        padding: 7px;
+    }
+    .footer-content ul{
+        text-align: center;
+    }
+    .list{
+        padding: 0;
+    }
+    .list li{
+        width: auto;
+        text-align: center;
+        list-style-type:none;
+        padding: 7px;
+        position: relative;
+    }
+
+    a{
+        text-decoration: none;
+    }
+
+    .bottom-bar{
+        background: #000202;
+        text-align: center;
+        padding: 0px;
+        margin-top: 50px;
+    }
+    .bottom-bar p{
+        color: #161717;
+        margin: 0;
+        font-size: 16px;
+        padding: 7px;
+    }
+/*styling footer*/
